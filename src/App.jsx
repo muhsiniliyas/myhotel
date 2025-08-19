@@ -32,7 +32,7 @@ function App() {
     {
       id: 2,
       name: "Ocean View Resort",
-      location: "Miami",
+      location: "Singapore",
       price: 16599,
       rating: 4.2,
       image: "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400",
@@ -41,7 +41,7 @@ function App() {
     {
       id: 3,
       name: "Mountain Lodge",
-      location: "Denver",
+      location: "Qatar",
       price: 13299,
       rating: 4.7,
       image: "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400",
@@ -50,7 +50,7 @@ function App() {
     {
       id: 4,
       name: "Urban Boutique Hotel",
-      location: "Los Angeles",
+      location: "Maldives",
       price: 20799,
       rating: 4.3,
       image: "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400",
@@ -59,7 +59,7 @@ function App() {
     {
       id: 5,
       name: "Historic Inn",
-      location: "Boston",
+      location: "Kochi",
       price: 14999,
       rating: 4.6,
       image: "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400",
@@ -68,7 +68,7 @@ function App() {
     {
       id: 6,
       name: "Desert Oasis Resort",
-      location: "Phoenix",
+      location: "Dubai",
       price: 15799,
       rating: 4.4,
       image: "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400",
@@ -77,7 +77,7 @@ function App() {
     {
       id: 7,
       name: "Harbor View Hotel",
-      location: "Seattle",
+      location: "Paris",
       price: 19199,
       rating: 4.1,
       image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
@@ -86,7 +86,7 @@ function App() {
     {
       id: 8,
       name: "Countryside Manor",
-      location: "Nashville",
+      location: "England",
       price: 12499,
       rating: 4.8,
       image: "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400",
@@ -95,7 +95,7 @@ function App() {
     {
       id: 9,
       name: "Tech Hub Hotel",
-      location: "San Francisco",
+      location: "Istanbul",
       price: 23299,
       rating: 4.0,
       image: "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400",
@@ -104,7 +104,7 @@ function App() {
     {
       id: 10,
       name: "Lakeside Retreat",
-      location: "Chicago",
+      location: "moscow",
       price: 17499,
       rating: 4.5,
       image: "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400",
