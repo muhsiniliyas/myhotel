@@ -23,7 +23,7 @@ function App() {
     {
       id: 1,
       name: "Grand Plaza Hotel",
-      location: "New York",
+      location: "Abu Dubai",
       price: 24999,
       rating: 4.5,
       image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400",
